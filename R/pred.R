@@ -2,6 +2,8 @@
 #'
 #' @param input data for prediction
 #'
+#' @import randomForest
+#'
 #' @export
 
 pred <- function(input) {
