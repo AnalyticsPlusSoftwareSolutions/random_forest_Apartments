@@ -8,5 +8,6 @@ https://www.opencpu.org/api.html
 
 
 ## Hosted app
+! repository name
 
-https://analyticsplussoftwaresolutions.ocpu.io/modelApartmentsRF
+https://analyticsplussoftwaresolutions.ocpu.io/random_forest_Apartments/info
