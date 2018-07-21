@@ -5,5 +5,5 @@
 #' @export
 
 pred <- function(input) {
-  predict(foo::model, input)
+  predict(modelApartmentsRF::model, input)
 }
